@@ -4,6 +4,8 @@
 
 Sistem Pengumpulan Tugas adalah aplikasi web untuk memanajemen praktikum, menghubungkan mahasiswa dan asisten dalam satu platform terpadu. Mahasiswa dapat mendaftar praktikum, mengunduh materi, dan mengumpulkan laporan. Asisten dapat mengelola mata praktikum, modul, serta menilai laporan.
 
+Disini Saya memodifikasi Fungsional Asisten saja, sementara untuk Bagian Mahasiswanya Saya biarkan default
+
 ---
 
 ## Fitur Utama
@@ -107,6 +109,32 @@ SistemPengumpulanTugas/
   * Password: `password123`
 
 ---
+## Screenshot
+* **Dashboard - Assistant Panel**
+  ![image](https://github.com/user-attachments/assets/d7bd5ed6-ec52-4935-a7b1-742823f1a999)
+
+* **Manajemen Course - Assistant Panel**
+  ![image](https://github.com/user-attachments/assets/e79132e0-032d-4356-9022-9dd2904aa93c)
+
+* **Manajemen Modul - Assistant Panel**
+  ![image](https://github.com/user-attachments/assets/76138774-7878-4bbf-ae78-46bba0a06740)
+
+* **Report Penilaian - Assistant Panel**
+  ![image](https://github.com/user-attachments/assets/23a9da6f-9f7c-4772-91df-5c3bf3382c88)
+
+* **Manajemen User - Assistant Panel**
+  ![image](https://github.com/user-attachments/assets/45e37413-ff9b-4922-83c0-d176266908bb)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Lisensi
 
