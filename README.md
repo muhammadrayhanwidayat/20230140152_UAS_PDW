@@ -4,8 +4,6 @@
 
 Sistem Pengumpulan Tugas adalah aplikasi web untuk memanajemen praktikum, menghubungkan mahasiswa dan asisten dalam satu platform terpadu. Mahasiswa dapat mendaftar praktikum, mengunduh materi, dan mengumpulkan laporan. Asisten dapat mengelola mata praktikum, modul, serta menilai laporan.
 
-Disini Saya memodifikasi Fungsional Asisten saja, sementara untuk Bagian Mahasiswanya Saya biarkan default
-
 ---
 
 ## Fitur Utama
