@@ -31,8 +31,8 @@ Sistem Pengumpulan Tugas adalah aplikasi web untuk memanajemen praktikum, menghu
 
 * **PHP** (Native)
 * **MySQL / MariaDB**
-* **Tailwind CSS  (utility-first CSS framework untuk styling) **
-* **JavaScript (untuk dynamic behavior seperti modal, AJAX requests) **
+* **Tailwind CSS  (utility-first CSS framework untuk styling)**
+* **JavaScript (untuk dynamic behavior seperti modal, AJAX requests)**
 
 ---
 
