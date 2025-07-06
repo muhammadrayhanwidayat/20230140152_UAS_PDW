@@ -123,6 +123,23 @@ SistemPengumpulanTugas/
 * **Manajemen User - Assistant Panel**
   ![image](https://github.com/user-attachments/assets/45e37413-ff9b-4922-83c0-d176266908bb)
 
+* **Dashboard - Mahasiswa**
+  ![image](https://github.com/user-attachments/assets/1d092483-f394-438f-be7d-a5f6533e2ba3)
+
+* **Courses - Mahasiswa**
+  ![image](https://github.com/user-attachments/assets/cea0bf5e-30ee-487c-b487-c755e609541a)
+  
+* **Courses detail - Mahasiswa**
+  ![image](https://github.com/user-attachments/assets/280e85f4-091b-42d0-9cbb-270bcdb12dbc)
+
+* **Enroll - Mahasiswa**
+  ![image](https://github.com/user-attachments/assets/e48bf632-9e09-4bdc-affd-e5217ae74d93)
+
+  
+
+
+
+
 
 
 
